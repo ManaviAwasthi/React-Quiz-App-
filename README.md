@@ -25,5 +25,5 @@ A vibrant, interactive quiz web app built with **React**, **Redux**, **Firebase 
 
 ---
 
-git clone:  https://github.com/your-username/quiz-app.git
+git clone:  https://github.com/manaviawasthi/quiz-app.git
 
