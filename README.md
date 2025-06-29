@@ -4,18 +4,18 @@ A vibrant, interactive quiz web app built with **React**, **Redux**, **Firebase 
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User authentication via Firebase
-- 🧩 Multiple-choice quiz interface
-- 📊 Auto result calculation
-- 📦 State management using Redux
-- 🌐 Backend-integrated question fetching
-- 🎯 Smooth navigation & submission
+-  User authentication via Firebase
+-  Multiple-choice quiz interface
+-  Auto result calculation
+-  State management using Redux
+-  Backend-integrated question fetching
+-  Smooth navigation & submission
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, CSS Modules
 - **Backend:** Node.js / Express (deployed)
