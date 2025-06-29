@@ -1,4 +1,4 @@
-# 🧠 Quiz App
+# Quiz App
 
 A vibrant, interactive quiz web app built with **React**, **Redux**, **Firebase Authentication**, and a **custom backend**.
 
